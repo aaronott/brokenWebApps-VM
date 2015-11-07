@@ -1,0 +1,6 @@
+.DS_Store
+.vagrant/
+*.swp
+vagrant_ansible_inventory_default
+config.yml
+examples/prod/inventory
